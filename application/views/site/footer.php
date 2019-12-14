@@ -4,7 +4,7 @@
 				    <div class="footer-info">            
 				      <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 				        <a href="" title=""><strong>VỀ CHÚNG TÔI</strong></a>
-				          <li> <a href="#" title="">Giới thiệu về shop</a></li> 
+				          <li> <a href="#" title="">Giới thiệu về shop 68DCHT21</a></li> 
 				          <li> <a href="#" title="">Các mức chế tài vi phạm</a></li> 
 				          <li> <a href="#" title="">Quy chế hoạt động</a></li> 
 				      </div>
